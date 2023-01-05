@@ -7,7 +7,7 @@ npm i
 npm run dev
 ```
 
-Neste ponto sua API deverá está rodando no endereço http://127.0.0.1:3000/.
+Rodando no endereço http://127.0.0.1:3000/.
 
 
 Perceba que as configurações começando com `process.env.` vem do arquivo `.env`.
